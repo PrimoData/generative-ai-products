@@ -51,9 +51,9 @@
     {
         "Name": "CodePilot",
         "Category": "Code Assistants",
-        "Website": "https://github.com/features/copilot",
-        "Twitter": "https://twitter.com/GitHubCopilot",
-        "Logo": "https://pbs.twimg.com/profile_images/1537476644033613824/pIeVTkS5_400x400.jpg"
+        "Website": "https://codepilot.netlify.app/",
+        "Twitter": "https://twitter.com/CodePilotai",
+        "Logo": "https://pbs.twimg.com/profile_images/788425004660568064/T0aIYx-C_400x400.jpg"
     },
     {
         "Name": "CodeRabbit",

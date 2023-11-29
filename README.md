@@ -17,7 +17,7 @@ Categories
 | ![Codegen Logo](https://pbs.twimg.com/profile_images/1724961150574710784/fwOvFM22_normal.jpg) | [Codegen](https://www.codegen.com/) | [@codegen](https://twitter.com/codegen) |
 | ![CodeGPT Logo](https://pbs.twimg.com/profile_images/1659371995362914304/-PPfO8ty_normal.jpg) | [CodeGPT](https://www.codegpt.co/) | [@codegptAI](https://twitter.com/codegptAI) |
 | ![Codeium Logo](https://pbs.twimg.com/profile_images/1636064664491806721/qMusm2sh_normal.png) | [Codeium](https://codeium.com/) | [@codeiumdev](https://twitter.com/codeiumdev) |
-| ![CodePilot Logo](https://pbs.twimg.com/profile_images/1537476644033613824/pIeVTkS5_normal.jpg) | [CodePilot](https://github.com/features/copilot) | [@GitHubCopilot](https://twitter.com/GitHubCopilot) |
+| ![CodePilot Logo](https://pbs.twimg.com/profile_images/788425004660568064/T0aIYx-C_normal.jpg) | [CodePilot](https://codepilot.netlify.app/) | [@CodePilotai](https://twitter.com/CodePilotai) |
 | ![CodeRabbit Logo](https://pbs.twimg.com/profile_images/1666581885919830018/JHs9U-kt_normal.jpg) | [CodeRabbit](https://coderabbit.ai/) | [@coderabbitai](https://twitter.com/coderabbitai) |
 | ![CodeSquire Logo](https://pbs.twimg.com/profile_images/1566054847752830978/sjsp0gRM_normal.png) | [CodeSquire](https://www.codesquire.ai/) | [@CodesquireAI](https://twitter.com/CodesquireAI) |
 | ![Codiga Logo](https://pbs.twimg.com/profile_images/1461062632782266368/Be90ziZk_normal.jpg) | [Codiga](https://www.codiga.io/) | [@getcodiga](https://twitter.com/getcodiga) |
